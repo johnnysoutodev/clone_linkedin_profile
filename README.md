@@ -1,4 +1,4 @@
-# Alura7DaysOfCode
+# 7DaysOfCode
 # Clone do perfil do Linkedin
 
 Desafio de 7 dias da Alura utilizando HTML e CSS
