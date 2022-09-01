@@ -35,3 +35,10 @@
   .texto-secundario {
     color: var(--texto-secundario);
   }
+
+  .card {
+    background-color: var(--fundo-card-ativo);
+    margin-top: 15px;
+    padding: 40px 10px 0;
+    border-radius: 10px;
+  }
